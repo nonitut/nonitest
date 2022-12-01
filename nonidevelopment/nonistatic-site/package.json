@@ -1,0 +1,7 @@
+{
+  "name": "nonistatic-site",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Noni",
+  "license": "false"
+}
